@@ -1,0 +1,26 @@
+
+> strapi-v-4@0.1.0 develop
+> strapi develop "remote" "add" "origin" "git@github.com:amkumar072/strapi-v4.git"
+
+Starting the compilation for TypeScript files in /Volumes/Disk1/Projects/learning/Strapi/strapi-v4
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Fri Nov 18 2022 05:52:59 GMT+0000 (Greenwich Me… [90m│[39m
+[90m│[39m Launched in        [90m│[39m 368 ms                                           [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 14829                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 4.5.1 (node v16.13.1)                            [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To manage your project 🚀, go to the administration panel at:
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+
